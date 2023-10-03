@@ -1,6 +1,6 @@
 # Endless AddOns
 
-A repository for 3.3.5 AddOns compatible with Endless.gg.
+A repository for 3.3.5 AddOns compatible with [Endless.gg](https://endless.gg).
 
 ---
 
